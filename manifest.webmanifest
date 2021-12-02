@@ -5,7 +5,7 @@
     "background_color":"#fff",
     "description": "User Details Progressive web application.",  
     "start_url": "./index.html?home=true", 
-    "id":"/js-fetch/User%20Profile%20App/index.html?home=true", 
+    "id":"/js-fetch/js-pwa/index.html?home=true", 
     "icons": [
         {
           "src": "images/icon-512x512.png",
